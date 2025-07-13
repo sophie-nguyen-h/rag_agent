@@ -1,0 +1,12 @@
+I am a test file with some passage from Jane Austen's famous Persuasion.
+
+SIR WALTER ELLIOT, of Kellynch Hall, in Somersetshire, was a man
+who, for his own amusement, never took up any book but the
+Baronetage; there he found occupation for an idle hour, and conso-
+lation in a distressed one; there his faculties were roused into admi-
+ration and respect, by contemplating the limited remnant of the
+earliest patents; there any unwelcome sensations, arising from do-
+mestic affairs changed naturally into pity and contempt as he turned
+over the almost endless creations of the last century; and there, if
+every other leaf were powerless, he could read his own history with
+an interest which never failed.
